@@ -1,0 +1,15 @@
+D:\csp\05_Array\05_ArraySortComplex\bin\Debug\net9.0\05_ArraySortComplex.exe
+D:\csp\05_Array\05_ArraySortComplex\bin\Debug\net9.0\05_ArraySortComplex.deps.json
+D:\csp\05_Array\05_ArraySortComplex\bin\Debug\net9.0\05_ArraySortComplex.runtimeconfig.json
+D:\csp\05_Array\05_ArraySortComplex\bin\Debug\net9.0\05_ArraySortComplex.dll
+D:\csp\05_Array\05_ArraySortComplex\bin\Debug\net9.0\05_ArraySortComplex.pdb
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\05_ArraySortComplex.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\05_ArraySortComplex.AssemblyInfoInputs.cache
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\05_ArraySortComplex.AssemblyInfo.cs
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\05_ArraySortComplex.csproj.CoreCompileInputs.cache
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\05_ArraySortComplex.sourcelink.json
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\05_ArraySortComplex.dll
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\refint\05_ArraySortComplex.dll
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\05_ArraySortComplex.pdb
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\05_ArraySortComplex.genruntimeconfig.cache
+D:\csp\05_Array\05_ArraySortComplex\obj\Debug\net9.0\ref\05_ArraySortComplex.dll

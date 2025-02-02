@@ -1,0 +1,15 @@
+D:\csp\05_Array\09_ArrayMultiDimensional\bin\Debug\net9.0\09_ArrayMultiDimensional.exe
+D:\csp\05_Array\09_ArrayMultiDimensional\bin\Debug\net9.0\09_ArrayMultiDimensional.deps.json
+D:\csp\05_Array\09_ArrayMultiDimensional\bin\Debug\net9.0\09_ArrayMultiDimensional.runtimeconfig.json
+D:\csp\05_Array\09_ArrayMultiDimensional\bin\Debug\net9.0\09_ArrayMultiDimensional.dll
+D:\csp\05_Array\09_ArrayMultiDimensional\bin\Debug\net9.0\09_ArrayMultiDimensional.pdb
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\09_ArrayMultiDimensional.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\09_ArrayMultiDimensional.AssemblyInfoInputs.cache
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\09_ArrayMultiDimensional.AssemblyInfo.cs
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\09_ArrayMultiDimensional.csproj.CoreCompileInputs.cache
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\09_ArrayMultiDimensional.sourcelink.json
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\09_ArrayMultiDimensional.dll
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\refint\09_ArrayMultiDimensional.dll
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\09_ArrayMultiDimensional.pdb
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\09_ArrayMultiDimensional.genruntimeconfig.cache
+D:\csp\05_Array\09_ArrayMultiDimensional\obj\Debug\net9.0\ref\09_ArrayMultiDimensional.dll

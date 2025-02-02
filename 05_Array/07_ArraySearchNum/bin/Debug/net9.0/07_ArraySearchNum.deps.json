@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "07_ArraySearchNum/1.0.0": {
+        "runtime": {
+          "07_ArraySearchNum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07_ArraySearchNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

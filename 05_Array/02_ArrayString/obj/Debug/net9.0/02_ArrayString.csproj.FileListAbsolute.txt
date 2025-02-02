@@ -1,0 +1,15 @@
+D:\csp\05_Array\02_ArrayString\bin\Debug\net9.0\02_ArrayString.exe
+D:\csp\05_Array\02_ArrayString\bin\Debug\net9.0\02_ArrayString.deps.json
+D:\csp\05_Array\02_ArrayString\bin\Debug\net9.0\02_ArrayString.runtimeconfig.json
+D:\csp\05_Array\02_ArrayString\bin\Debug\net9.0\02_ArrayString.dll
+D:\csp\05_Array\02_ArrayString\bin\Debug\net9.0\02_ArrayString.pdb
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\02_ArrayString.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\02_ArrayString.AssemblyInfoInputs.cache
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\02_ArrayString.AssemblyInfo.cs
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\02_ArrayString.csproj.CoreCompileInputs.cache
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\02_ArrayString.sourcelink.json
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\02_ArrayString.dll
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\refint\02_ArrayString.dll
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\02_ArrayString.pdb
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\02_ArrayString.genruntimeconfig.cache
+D:\csp\05_Array\02_ArrayString\obj\Debug\net9.0\ref\02_ArrayString.dll

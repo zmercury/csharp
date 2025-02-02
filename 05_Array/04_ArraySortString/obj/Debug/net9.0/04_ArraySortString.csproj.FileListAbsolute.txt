@@ -1,0 +1,15 @@
+D:\csp\05_Array\04_ArraySortString\bin\Debug\net9.0\04_ArraySortString.exe
+D:\csp\05_Array\04_ArraySortString\bin\Debug\net9.0\04_ArraySortString.deps.json
+D:\csp\05_Array\04_ArraySortString\bin\Debug\net9.0\04_ArraySortString.runtimeconfig.json
+D:\csp\05_Array\04_ArraySortString\bin\Debug\net9.0\04_ArraySortString.dll
+D:\csp\05_Array\04_ArraySortString\bin\Debug\net9.0\04_ArraySortString.pdb
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\04_ArraySortString.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\04_ArraySortString.AssemblyInfoInputs.cache
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\04_ArraySortString.AssemblyInfo.cs
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\04_ArraySortString.csproj.CoreCompileInputs.cache
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\04_ArraySortString.sourcelink.json
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\04_ArraySortString.dll
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\refint\04_ArraySortString.dll
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\04_ArraySortString.pdb
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\04_ArraySortString.genruntimeconfig.cache
+D:\csp\05_Array\04_ArraySortString\obj\Debug\net9.0\ref\04_ArraySortString.dll

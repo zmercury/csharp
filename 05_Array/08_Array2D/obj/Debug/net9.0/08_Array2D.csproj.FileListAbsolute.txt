@@ -1,0 +1,15 @@
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\08_Array2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\08_Array2D.AssemblyInfoInputs.cache
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\08_Array2D.AssemblyInfo.cs
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\08_Array2D.csproj.CoreCompileInputs.cache
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\08_Array2D.sourcelink.json
+D:\csp\05_Array\08_Array2D\bin\Debug\net9.0\08_Array2D.exe
+D:\csp\05_Array\08_Array2D\bin\Debug\net9.0\08_Array2D.deps.json
+D:\csp\05_Array\08_Array2D\bin\Debug\net9.0\08_Array2D.runtimeconfig.json
+D:\csp\05_Array\08_Array2D\bin\Debug\net9.0\08_Array2D.dll
+D:\csp\05_Array\08_Array2D\bin\Debug\net9.0\08_Array2D.pdb
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\08_Array2D.dll
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\refint\08_Array2D.dll
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\08_Array2D.pdb
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\08_Array2D.genruntimeconfig.cache
+D:\csp\05_Array\08_Array2D\obj\Debug\net9.0\ref\08_Array2D.dll
