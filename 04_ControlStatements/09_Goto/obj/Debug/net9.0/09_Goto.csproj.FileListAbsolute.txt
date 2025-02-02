@@ -1,0 +1,15 @@
+D:\csp\04_ControlStatements\09_Goto\bin\Debug\net9.0\09_Goto.exe
+D:\csp\04_ControlStatements\09_Goto\bin\Debug\net9.0\09_Goto.deps.json
+D:\csp\04_ControlStatements\09_Goto\bin\Debug\net9.0\09_Goto.runtimeconfig.json
+D:\csp\04_ControlStatements\09_Goto\bin\Debug\net9.0\09_Goto.dll
+D:\csp\04_ControlStatements\09_Goto\bin\Debug\net9.0\09_Goto.pdb
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\09_Goto.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\09_Goto.AssemblyInfoInputs.cache
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\09_Goto.AssemblyInfo.cs
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\09_Goto.csproj.CoreCompileInputs.cache
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\09_Goto.sourcelink.json
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\09_Goto.dll
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\refint\09_Goto.dll
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\09_Goto.pdb
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\09_Goto.genruntimeconfig.cache
+D:\csp\04_ControlStatements\09_Goto\obj\Debug\net9.0\ref\09_Goto.dll
