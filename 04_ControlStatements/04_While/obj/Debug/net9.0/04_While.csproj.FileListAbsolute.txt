@@ -1,0 +1,15 @@
+D:\csp\04_ControlStatements\04_While\bin\Debug\net9.0\04_While.exe
+D:\csp\04_ControlStatements\04_While\bin\Debug\net9.0\04_While.deps.json
+D:\csp\04_ControlStatements\04_While\bin\Debug\net9.0\04_While.runtimeconfig.json
+D:\csp\04_ControlStatements\04_While\bin\Debug\net9.0\04_While.dll
+D:\csp\04_ControlStatements\04_While\bin\Debug\net9.0\04_While.pdb
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\04_While.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\04_While.AssemblyInfoInputs.cache
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\04_While.AssemblyInfo.cs
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\04_While.csproj.CoreCompileInputs.cache
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\04_While.sourcelink.json
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\04_While.dll
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\refint\04_While.dll
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\04_While.pdb
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\04_While.genruntimeconfig.cache
+D:\csp\04_ControlStatements\04_While\obj\Debug\net9.0\ref\04_While.dll

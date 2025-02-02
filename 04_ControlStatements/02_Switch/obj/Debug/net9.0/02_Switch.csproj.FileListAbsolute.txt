@@ -1,0 +1,15 @@
+D:\csp\04_ControlStatements\02_Switch\bin\Debug\net9.0\02_Switch.exe
+D:\csp\04_ControlStatements\02_Switch\bin\Debug\net9.0\02_Switch.deps.json
+D:\csp\04_ControlStatements\02_Switch\bin\Debug\net9.0\02_Switch.runtimeconfig.json
+D:\csp\04_ControlStatements\02_Switch\bin\Debug\net9.0\02_Switch.dll
+D:\csp\04_ControlStatements\02_Switch\bin\Debug\net9.0\02_Switch.pdb
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\02_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\02_Switch.AssemblyInfoInputs.cache
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\02_Switch.AssemblyInfo.cs
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\02_Switch.csproj.CoreCompileInputs.cache
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\02_Switch.sourcelink.json
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\02_Switch.dll
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\refint\02_Switch.dll
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\02_Switch.pdb
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\02_Switch.genruntimeconfig.cache
+D:\csp\04_ControlStatements\02_Switch\obj\Debug\net9.0\ref\02_Switch.dll

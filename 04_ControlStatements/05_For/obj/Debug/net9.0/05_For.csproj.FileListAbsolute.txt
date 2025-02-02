@@ -1,0 +1,15 @@
+D:\csp\04_ControlStatements\05_For\bin\Debug\net9.0\05_For.exe
+D:\csp\04_ControlStatements\05_For\bin\Debug\net9.0\05_For.deps.json
+D:\csp\04_ControlStatements\05_For\bin\Debug\net9.0\05_For.runtimeconfig.json
+D:\csp\04_ControlStatements\05_For\bin\Debug\net9.0\05_For.dll
+D:\csp\04_ControlStatements\05_For\bin\Debug\net9.0\05_For.pdb
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\05_For.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\05_For.AssemblyInfoInputs.cache
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\05_For.AssemblyInfo.cs
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\05_For.csproj.CoreCompileInputs.cache
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\05_For.sourcelink.json
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\05_For.dll
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\refint\05_For.dll
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\05_For.pdb
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\05_For.genruntimeconfig.cache
+D:\csp\04_ControlStatements\05_For\obj\Debug\net9.0\ref\05_For.dll

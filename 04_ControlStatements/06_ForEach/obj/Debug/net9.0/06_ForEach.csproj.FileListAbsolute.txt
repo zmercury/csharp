@@ -1,0 +1,15 @@
+D:\csp\04_ControlStatements\06_ForEach\bin\Debug\net9.0\06_ForEach.exe
+D:\csp\04_ControlStatements\06_ForEach\bin\Debug\net9.0\06_ForEach.deps.json
+D:\csp\04_ControlStatements\06_ForEach\bin\Debug\net9.0\06_ForEach.runtimeconfig.json
+D:\csp\04_ControlStatements\06_ForEach\bin\Debug\net9.0\06_ForEach.dll
+D:\csp\04_ControlStatements\06_ForEach\bin\Debug\net9.0\06_ForEach.pdb
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\06_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\06_ForEach.AssemblyInfoInputs.cache
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\06_ForEach.AssemblyInfo.cs
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\06_ForEach.csproj.CoreCompileInputs.cache
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\06_ForEach.sourcelink.json
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\06_ForEach.dll
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\refint\06_ForEach.dll
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\06_ForEach.pdb
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\06_ForEach.genruntimeconfig.cache
+D:\csp\04_ControlStatements\06_ForEach\obj\Debug\net9.0\ref\06_ForEach.dll

@@ -1,0 +1,15 @@
+D:\csp\04_ControlStatements\08_ReturnAdd\bin\Debug\net9.0\08_ReturnAdd.exe
+D:\csp\04_ControlStatements\08_ReturnAdd\bin\Debug\net9.0\08_ReturnAdd.deps.json
+D:\csp\04_ControlStatements\08_ReturnAdd\bin\Debug\net9.0\08_ReturnAdd.runtimeconfig.json
+D:\csp\04_ControlStatements\08_ReturnAdd\bin\Debug\net9.0\08_ReturnAdd.dll
+D:\csp\04_ControlStatements\08_ReturnAdd\bin\Debug\net9.0\08_ReturnAdd.pdb
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\08_ReturnAdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\08_ReturnAdd.AssemblyInfoInputs.cache
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\08_ReturnAdd.AssemblyInfo.cs
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\08_ReturnAdd.csproj.CoreCompileInputs.cache
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\08_ReturnAdd.sourcelink.json
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\08_ReturnAdd.dll
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\refint\08_ReturnAdd.dll
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\08_ReturnAdd.pdb
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\08_ReturnAdd.genruntimeconfig.cache
+D:\csp\04_ControlStatements\08_ReturnAdd\obj\Debug\net9.0\ref\08_ReturnAdd.dll
