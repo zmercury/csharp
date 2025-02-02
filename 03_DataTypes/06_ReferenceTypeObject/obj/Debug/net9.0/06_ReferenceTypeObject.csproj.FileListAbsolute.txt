@@ -1,0 +1,15 @@
+D:\csp\03_DataTypes\06_ReferenceTypeObject\bin\Debug\net9.0\06_ReferenceTypeObject.exe
+D:\csp\03_DataTypes\06_ReferenceTypeObject\bin\Debug\net9.0\06_ReferenceTypeObject.deps.json
+D:\csp\03_DataTypes\06_ReferenceTypeObject\bin\Debug\net9.0\06_ReferenceTypeObject.runtimeconfig.json
+D:\csp\03_DataTypes\06_ReferenceTypeObject\bin\Debug\net9.0\06_ReferenceTypeObject.dll
+D:\csp\03_DataTypes\06_ReferenceTypeObject\bin\Debug\net9.0\06_ReferenceTypeObject.pdb
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\06_ReferenceTypeObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\06_ReferenceTypeObject.AssemblyInfoInputs.cache
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\06_ReferenceTypeObject.AssemblyInfo.cs
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\06_ReferenceTypeObject.csproj.CoreCompileInputs.cache
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\06_ReferenceTypeObject.sourcelink.json
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\06_ReferenceTypeObject.dll
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\refint\06_ReferenceTypeObject.dll
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\06_ReferenceTypeObject.pdb
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\06_ReferenceTypeObject.genruntimeconfig.cache
+D:\csp\03_DataTypes\06_ReferenceTypeObject\obj\Debug\net9.0\ref\06_ReferenceTypeObject.dll

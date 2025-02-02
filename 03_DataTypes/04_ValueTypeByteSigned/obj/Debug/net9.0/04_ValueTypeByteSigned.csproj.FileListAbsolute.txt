@@ -1,0 +1,15 @@
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\bin\Debug\net9.0\04_ValueTypeByteSigned.exe
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\bin\Debug\net9.0\04_ValueTypeByteSigned.deps.json
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\bin\Debug\net9.0\04_ValueTypeByteSigned.runtimeconfig.json
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\bin\Debug\net9.0\04_ValueTypeByteSigned.dll
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\bin\Debug\net9.0\04_ValueTypeByteSigned.pdb
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\04_ValueTypeByteSigned.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\04_ValueTypeByteSigned.AssemblyInfoInputs.cache
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\04_ValueTypeByteSigned.AssemblyInfo.cs
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\04_ValueTypeByteSigned.csproj.CoreCompileInputs.cache
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\04_ValueTypeByteSigned.sourcelink.json
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\04_ValueTypeByteSigned.dll
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\refint\04_ValueTypeByteSigned.dll
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\04_ValueTypeByteSigned.pdb
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\04_ValueTypeByteSigned.genruntimeconfig.cache
+D:\csp\03_DataTypes\04_ValueTypeByteSigned\obj\Debug\net9.0\ref\04_ValueTypeByteSigned.dll

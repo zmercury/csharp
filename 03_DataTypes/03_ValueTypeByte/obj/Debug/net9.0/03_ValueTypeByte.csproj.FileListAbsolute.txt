@@ -1,0 +1,15 @@
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\03_ValueTypeByte.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\03_ValueTypeByte.AssemblyInfoInputs.cache
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\03_ValueTypeByte.AssemblyInfo.cs
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\03_ValueTypeByte.csproj.CoreCompileInputs.cache
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\03_ValueTypeByte.sourcelink.json
+D:\csp\03_DataTypes\03_ValueTypeByte\bin\Debug\net9.0\03_ValueTypeByte.exe
+D:\csp\03_DataTypes\03_ValueTypeByte\bin\Debug\net9.0\03_ValueTypeByte.deps.json
+D:\csp\03_DataTypes\03_ValueTypeByte\bin\Debug\net9.0\03_ValueTypeByte.runtimeconfig.json
+D:\csp\03_DataTypes\03_ValueTypeByte\bin\Debug\net9.0\03_ValueTypeByte.dll
+D:\csp\03_DataTypes\03_ValueTypeByte\bin\Debug\net9.0\03_ValueTypeByte.pdb
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\03_ValueTypeByte.dll
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\refint\03_ValueTypeByte.dll
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\03_ValueTypeByte.pdb
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\03_ValueTypeByte.genruntimeconfig.cache
+D:\csp\03_DataTypes\03_ValueTypeByte\obj\Debug\net9.0\ref\03_ValueTypeByte.dll

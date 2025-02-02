@@ -1,0 +1,15 @@
+D:\csp\03_DataTypes\02_ValueTypesBoolean\bin\Debug\net9.0\02_ValueTypesBoolean.exe
+D:\csp\03_DataTypes\02_ValueTypesBoolean\bin\Debug\net9.0\02_ValueTypesBoolean.deps.json
+D:\csp\03_DataTypes\02_ValueTypesBoolean\bin\Debug\net9.0\02_ValueTypesBoolean.runtimeconfig.json
+D:\csp\03_DataTypes\02_ValueTypesBoolean\bin\Debug\net9.0\02_ValueTypesBoolean.dll
+D:\csp\03_DataTypes\02_ValueTypesBoolean\bin\Debug\net9.0\02_ValueTypesBoolean.pdb
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\02_ValueTypesBoolean.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\02_ValueTypesBoolean.AssemblyInfoInputs.cache
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\02_ValueTypesBoolean.AssemblyInfo.cs
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\02_ValueTypesBoolean.csproj.CoreCompileInputs.cache
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\02_ValueTypesBoolean.sourcelink.json
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\02_ValueTypesBoolean.dll
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\refint\02_ValueTypesBoolean.dll
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\02_ValueTypesBoolean.pdb
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\02_ValueTypesBoolean.genruntimeconfig.cache
+D:\csp\03_DataTypes\02_ValueTypesBoolean\obj\Debug\net9.0\ref\02_ValueTypesBoolean.dll
