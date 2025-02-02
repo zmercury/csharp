@@ -1,0 +1,14 @@
+D:\csp\BasicIO\SumTwoNumber\bin\Debug\net9.0\SumTwoNumber.exe
+D:\csp\BasicIO\SumTwoNumber\bin\Debug\net9.0\SumTwoNumber.deps.json
+D:\csp\BasicIO\SumTwoNumber\bin\Debug\net9.0\SumTwoNumber.runtimeconfig.json
+D:\csp\BasicIO\SumTwoNumber\bin\Debug\net9.0\SumTwoNumber.dll
+D:\csp\BasicIO\SumTwoNumber\bin\Debug\net9.0\SumTwoNumber.pdb
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\SumTwoNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\SumTwoNumber.AssemblyInfoInputs.cache
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\SumTwoNumber.AssemblyInfo.cs
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\SumTwoNumber.csproj.CoreCompileInputs.cache
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\SumTwoNumber.dll
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\refint\SumTwoNumber.dll
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\SumTwoNumber.pdb
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\SumTwoNumber.genruntimeconfig.cache
+D:\csp\BasicIO\SumTwoNumber\obj\Debug\net9.0\ref\SumTwoNumber.dll

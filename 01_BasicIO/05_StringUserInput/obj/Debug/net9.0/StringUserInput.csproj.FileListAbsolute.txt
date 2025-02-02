@@ -1,0 +1,14 @@
+D:\csp\BasicIO\StringUserInput\bin\Debug\net9.0\StringUserInput.exe
+D:\csp\BasicIO\StringUserInput\bin\Debug\net9.0\StringUserInput.deps.json
+D:\csp\BasicIO\StringUserInput\bin\Debug\net9.0\StringUserInput.runtimeconfig.json
+D:\csp\BasicIO\StringUserInput\bin\Debug\net9.0\StringUserInput.dll
+D:\csp\BasicIO\StringUserInput\bin\Debug\net9.0\StringUserInput.pdb
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\StringUserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\StringUserInput.AssemblyInfoInputs.cache
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\StringUserInput.AssemblyInfo.cs
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\StringUserInput.csproj.CoreCompileInputs.cache
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\StringUserInput.dll
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\refint\StringUserInput.dll
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\StringUserInput.pdb
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\StringUserInput.genruntimeconfig.cache
+D:\csp\BasicIO\StringUserInput\obj\Debug\net9.0\ref\StringUserInput.dll

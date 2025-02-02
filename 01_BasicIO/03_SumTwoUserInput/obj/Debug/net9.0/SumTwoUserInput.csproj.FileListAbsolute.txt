@@ -1,0 +1,14 @@
+D:\csp\BasicIO\SumTwoUserInput\bin\Debug\net9.0\SumTwoUserInput.exe
+D:\csp\BasicIO\SumTwoUserInput\bin\Debug\net9.0\SumTwoUserInput.deps.json
+D:\csp\BasicIO\SumTwoUserInput\bin\Debug\net9.0\SumTwoUserInput.runtimeconfig.json
+D:\csp\BasicIO\SumTwoUserInput\bin\Debug\net9.0\SumTwoUserInput.dll
+D:\csp\BasicIO\SumTwoUserInput\bin\Debug\net9.0\SumTwoUserInput.pdb
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\SumTwoUserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\SumTwoUserInput.AssemblyInfoInputs.cache
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\SumTwoUserInput.AssemblyInfo.cs
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\SumTwoUserInput.csproj.CoreCompileInputs.cache
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\SumTwoUserInput.dll
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\refint\SumTwoUserInput.dll
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\SumTwoUserInput.pdb
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\SumTwoUserInput.genruntimeconfig.cache
+D:\csp\BasicIO\SumTwoUserInput\obj\Debug\net9.0\ref\SumTwoUserInput.dll

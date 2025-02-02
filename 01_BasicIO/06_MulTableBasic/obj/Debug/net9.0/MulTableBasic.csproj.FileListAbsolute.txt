@@ -1,0 +1,14 @@
+D:\csp\BasicIO\MulTableBasic\bin\Debug\net9.0\MulTableBasic.exe
+D:\csp\BasicIO\MulTableBasic\bin\Debug\net9.0\MulTableBasic.deps.json
+D:\csp\BasicIO\MulTableBasic\bin\Debug\net9.0\MulTableBasic.runtimeconfig.json
+D:\csp\BasicIO\MulTableBasic\bin\Debug\net9.0\MulTableBasic.dll
+D:\csp\BasicIO\MulTableBasic\bin\Debug\net9.0\MulTableBasic.pdb
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\MulTableBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\MulTableBasic.AssemblyInfoInputs.cache
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\MulTableBasic.AssemblyInfo.cs
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\MulTableBasic.csproj.CoreCompileInputs.cache
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\MulTableBasic.dll
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\refint\MulTableBasic.dll
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\MulTableBasic.pdb
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\MulTableBasic.genruntimeconfig.cache
+D:\csp\BasicIO\MulTableBasic\obj\Debug\net9.0\ref\MulTableBasic.dll

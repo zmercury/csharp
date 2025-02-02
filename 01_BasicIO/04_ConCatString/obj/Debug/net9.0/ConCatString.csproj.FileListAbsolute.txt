@@ -1,0 +1,14 @@
+D:\csp\BasicIO\ConCatString\bin\Debug\net9.0\ConCatString.exe
+D:\csp\BasicIO\ConCatString\bin\Debug\net9.0\ConCatString.deps.json
+D:\csp\BasicIO\ConCatString\bin\Debug\net9.0\ConCatString.runtimeconfig.json
+D:\csp\BasicIO\ConCatString\bin\Debug\net9.0\ConCatString.dll
+D:\csp\BasicIO\ConCatString\bin\Debug\net9.0\ConCatString.pdb
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\ConCatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\ConCatString.AssemblyInfoInputs.cache
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\ConCatString.AssemblyInfo.cs
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\ConCatString.csproj.CoreCompileInputs.cache
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\ConCatString.dll
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\refint\ConCatString.dll
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\ConCatString.pdb
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\ConCatString.genruntimeconfig.cache
+D:\csp\BasicIO\ConCatString\obj\Debug\net9.0\ref\ConCatString.dll

@@ -1,0 +1,14 @@
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\03_ClassObjectUserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\03_ClassObjectUserInput.AssemblyInfoInputs.cache
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\03_ClassObjectUserInput.AssemblyInfo.cs
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\03_ClassObjectUserInput.csproj.CoreCompileInputs.cache
+D:\csp\02_ClassObject\03_ClassObjectUserInput\bin\Debug\net9.0\03_ClassObjectUserInput.exe
+D:\csp\02_ClassObject\03_ClassObjectUserInput\bin\Debug\net9.0\03_ClassObjectUserInput.deps.json
+D:\csp\02_ClassObject\03_ClassObjectUserInput\bin\Debug\net9.0\03_ClassObjectUserInput.runtimeconfig.json
+D:\csp\02_ClassObject\03_ClassObjectUserInput\bin\Debug\net9.0\03_ClassObjectUserInput.dll
+D:\csp\02_ClassObject\03_ClassObjectUserInput\bin\Debug\net9.0\03_ClassObjectUserInput.pdb
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\03_ClassObjectUserInput.dll
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\refint\03_ClassObjectUserInput.dll
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\03_ClassObjectUserInput.pdb
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\03_ClassObjectUserInput.genruntimeconfig.cache
+D:\csp\02_ClassObject\03_ClassObjectUserInput\obj\Debug\net9.0\ref\03_ClassObjectUserInput.dll

@@ -1,0 +1,14 @@
+D:\csp\02_ClassObject\02_ClassObjectDataMember\bin\Debug\net9.0\02_ClassObjectDataMember.exe
+D:\csp\02_ClassObject\02_ClassObjectDataMember\bin\Debug\net9.0\02_ClassObjectDataMember.deps.json
+D:\csp\02_ClassObject\02_ClassObjectDataMember\bin\Debug\net9.0\02_ClassObjectDataMember.runtimeconfig.json
+D:\csp\02_ClassObject\02_ClassObjectDataMember\bin\Debug\net9.0\02_ClassObjectDataMember.dll
+D:\csp\02_ClassObject\02_ClassObjectDataMember\bin\Debug\net9.0\02_ClassObjectDataMember.pdb
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\02_ClassObjectDataMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\02_ClassObjectDataMember.AssemblyInfoInputs.cache
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\02_ClassObjectDataMember.AssemblyInfo.cs
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\02_ClassObjectDataMember.csproj.CoreCompileInputs.cache
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\02_ClassObjectDataMember.dll
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\refint\02_ClassObjectDataMember.dll
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\02_ClassObjectDataMember.pdb
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\02_ClassObjectDataMember.genruntimeconfig.cache
+D:\csp\02_ClassObject\02_ClassObjectDataMember\obj\Debug\net9.0\ref\02_ClassObjectDataMember.dll
