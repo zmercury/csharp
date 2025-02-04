@@ -1,0 +1,15 @@
+D:\csp\10_StaticClassMethod\b_static\bin\Debug\net9.0\b_static.exe
+D:\csp\10_StaticClassMethod\b_static\bin\Debug\net9.0\b_static.deps.json
+D:\csp\10_StaticClassMethod\b_static\bin\Debug\net9.0\b_static.runtimeconfig.json
+D:\csp\10_StaticClassMethod\b_static\bin\Debug\net9.0\b_static.dll
+D:\csp\10_StaticClassMethod\b_static\bin\Debug\net9.0\b_static.pdb
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\b_static.GeneratedMSBuildEditorConfig.editorconfig
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\b_static.AssemblyInfoInputs.cache
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\b_static.AssemblyInfo.cs
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\b_static.csproj.CoreCompileInputs.cache
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\b_static.sourcelink.json
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\b_static.dll
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\refint\b_static.dll
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\b_static.pdb
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\b_static.genruntimeconfig.cache
+D:\csp\10_StaticClassMethod\b_static\obj\Debug\net9.0\ref\b_static.dll
