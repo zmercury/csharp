@@ -1,0 +1,41 @@
+# Build output
+bin/
+obj/
+
+# ReSharper files
+_ReSharper*
+
+# NuGet Packages
+packages/
+
+# Test results
+TestResults/
+
+# Publish output
+publish/
+
+# ClickOnce files
+*.application
+*.deploy
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac-specific files
+.DS_Store
+
+# Rider files
+.idea/
+
+# Local history
+LocalHistory/
+
+# Other
+*.dbmdl
+*.bak
+*.cache
+*.orig
+*.tmp
+
