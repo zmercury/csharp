@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csp\\BasicIO\\SumTwoUserInput\\SumTwoUserInput.csproj",
+      "projectUniqueName": "D:\\csp\\01_BasicIO\\03_SumTwoUserInput\\SumTwoUserInput.csproj",
       "projectName": "SumTwoUserInput",
-      "projectPath": "D:\\csp\\BasicIO\\SumTwoUserInput\\SumTwoUserInput.csproj",
+      "projectPath": "D:\\csp\\01_BasicIO\\03_SumTwoUserInput\\SumTwoUserInput.csproj",
       "packagesPath": "C:\\Users\\messi\\.nuget\\packages\\",
-      "outputPath": "D:\\csp\\BasicIO\\SumTwoUserInput\\obj\\",
+      "outputPath": "D:\\csp\\01_BasicIO\\03_SumTwoUserInput\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

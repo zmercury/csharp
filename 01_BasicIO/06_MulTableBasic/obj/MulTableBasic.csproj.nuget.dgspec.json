@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csp\\BasicIO\\MulTableBasic\\MulTableBasic.csproj": {}
+    "D:\\csp\\01_BasicIO\\06_MulTableBasic\\MulTableBasic.csproj": {}
   },
   "projects": {
-    "D:\\csp\\BasicIO\\MulTableBasic\\MulTableBasic.csproj": {
+    "D:\\csp\\01_BasicIO\\06_MulTableBasic\\MulTableBasic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csp\\BasicIO\\MulTableBasic\\MulTableBasic.csproj",
+        "projectUniqueName": "D:\\csp\\01_BasicIO\\06_MulTableBasic\\MulTableBasic.csproj",
         "projectName": "MulTableBasic",
-        "projectPath": "D:\\csp\\BasicIO\\MulTableBasic\\MulTableBasic.csproj",
+        "projectPath": "D:\\csp\\01_BasicIO\\06_MulTableBasic\\MulTableBasic.csproj",
         "packagesPath": "C:\\Users\\messi\\.nuget\\packages\\",
-        "outputPath": "D:\\csp\\BasicIO\\MulTableBasic\\obj\\",
+        "outputPath": "D:\\csp\\01_BasicIO\\06_MulTableBasic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

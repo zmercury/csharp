@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csp\\BasicIO\\StringUserInput\\StringUserInput.csproj": {}
+    "D:\\csp\\01_BasicIO\\05_StringUserInput\\StringUserInput.csproj": {}
   },
   "projects": {
-    "D:\\csp\\BasicIO\\StringUserInput\\StringUserInput.csproj": {
+    "D:\\csp\\01_BasicIO\\05_StringUserInput\\StringUserInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csp\\BasicIO\\StringUserInput\\StringUserInput.csproj",
+        "projectUniqueName": "D:\\csp\\01_BasicIO\\05_StringUserInput\\StringUserInput.csproj",
         "projectName": "StringUserInput",
-        "projectPath": "D:\\csp\\BasicIO\\StringUserInput\\StringUserInput.csproj",
+        "projectPath": "D:\\csp\\01_BasicIO\\05_StringUserInput\\StringUserInput.csproj",
         "packagesPath": "C:\\Users\\messi\\.nuget\\packages\\",
-        "outputPath": "D:\\csp\\BasicIO\\StringUserInput\\obj\\",
+        "outputPath": "D:\\csp\\01_BasicIO\\05_StringUserInput\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
