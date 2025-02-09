@@ -38,8 +38,8 @@ class Program
         h = new Cube();
         h = new PwrFour();
 
-        Console.WriteLine("Square = " + );
-        Console.WriteLine("Square = ");
-        Console.WriteLine("Square = ");
+        Console.WriteLine("Square = " + h.Square(5));
+        Console.WriteLine("Cube = " + h.Cube(3));
+        Console.WriteLine("Power Four = " + h.PwrFour(4));
     }
 }

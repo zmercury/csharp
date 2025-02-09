@@ -100,3 +100,9 @@
 | Derived Class | Shows how to inherit and extend base class functionality | [View Code](11_Inheritance/DerivedClass) |
 | Method Overriding | Demonstrates overriding methods in derived classes | [View Code](11_Inheritance/MethodOverriding) |
 | Polymorphism | Shows runtime method selection with inheritance | [View Code](11_Inheritance/Polymorphism) |
+
+## 11. Encapculation 
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+|
