@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_ClassObjectUserInputMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc9013f3baec7b8676391dbcf274e402b897bca3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebc045a4ae5a6161dc2fa354630866b6c731f111")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_ClassObjectUserInputMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_ClassObjectUserInputMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
