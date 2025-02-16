@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("h_non_compatible_using_parse_method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65edf1b57f0c8df2fb9f15de970663b1c1d69115")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07ef0d975cbe1ea27f7d253a25487bd108297a4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("h_non_compatible_using_parse_method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("h_non_compatible_using_parse_method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
