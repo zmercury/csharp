@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08_ReturnAdd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07ef0d975cbe1ea27f7d253a25487bd108297a4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3d34d3253da6570a0c53ad05a4b8f4474bf7d3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("08_ReturnAdd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08_ReturnAdd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
