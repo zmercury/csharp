@@ -1,33 +1,20 @@
 ﻿namespace _03_UserInput;
 
-delegate int MyDel(int a, int b);
+delegate int MyDel(int a, int b, int c, int d);
 
 class Program
 {
     static void Main(string[] args)
     {
-        MyDel d = (a, b) => (a + b);
+        MyDel e = (a, b, c, d) => (a + b + c + d);
 
-        (int one, int two) = GetInput();
-        (int one, int two, int three) = GetThreeInput();
+        (int one, int two, int three, int four) = GetInput();
 
-        int value = d(one, two);
-        int valueThree = d(one, two, three);
-        Console.WriteLine("The sum is " + value);
-        Console.WriteLine("The sum of three num:  " + valueThree);
+        int valueFour = e(one, two, three, four);
+        Console.WriteLine("The sum of four num:  " + valueFour);
     }
 
-    static (int, int) GetInput()
-    {
-        Console.WriteLine("Enter the value of A: ");
-        int numOne = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Enter the value of B: ");
-        int numTwo = Convert.ToInt32(Console.ReadLine());
-
-        return (numOne, numTwo);
-    }
-
-    static (int, int, int) GetThreeInput()
+    static (int, int, int, int) GetInput()
     {
         Console.WriteLine("Enter the value of A: ");
         int numOne = Convert.ToInt32(Console.ReadLine());
@@ -35,8 +22,10 @@ class Program
         int numTwo = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Enter the value of C: ");
         int numThree = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter the value of D: ");
+        int numFour = Convert.ToInt32(Console.ReadLine());
 
-        return (numOne, numTwo, numThree);
+        return (numOne, numTwo, numThree, numFour);
     }
 }
 
