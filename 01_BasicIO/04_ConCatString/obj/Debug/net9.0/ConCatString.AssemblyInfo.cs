@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConCatString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5514c2167e7519dc58a51438beceb4716eaa3c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbe62c3f86091f7f618689d73710b72190c6e91")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConCatString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConCatString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
