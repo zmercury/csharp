@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("f_type_conversion_non_compatible_convert_class")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bd6702e0224a1213ed4f7dc0f3d23b0959f1423")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40855f17ca212bd1b1db040d3b932a89209bbfd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("f_type_conversion_non_compatible_convert_class")]
 [assembly: System.Reflection.AssemblyTitleAttribute("f_type_conversion_non_compatible_convert_class")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
