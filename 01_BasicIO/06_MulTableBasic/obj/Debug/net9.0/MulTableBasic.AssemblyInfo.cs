@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MulTableBasic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b57bfee8ef3dd444cd6f454a8cdd7446538613f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b00ebe0ee83ea69cab584390300a8905fee1ead0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MulTableBasic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MulTableBasic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
