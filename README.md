@@ -101,12 +101,6 @@
 | Method Overriding | Demonstrates overriding methods in derived classes | [View Code](11_Inheritance/MethodOverriding) |
 | Polymorphism | Shows runtime method selection with inheritance | [View Code](11_Inheritance/Polymorphism) |
 
-## 11. Encapculation 
-
-| Program | Program Description | Source Code |
-|:--------|:-------------------|:------------|
-|
-
 ## 12. Encapsulation
 
 | Program | Program Description | Source Code |
@@ -197,7 +191,7 @@
 
 | Program | Program Description | Source Code |
 |:--------|:-------------------|:------------|
-| List Collections | Shows usage of List<T> collection | [View Code](24_Collections/a_list) |
+| List Collections | Shows usage of List```<T>``` collection | [View Code](24_Collections/a_list) |
 | Dictionary Collections | Demonstrates key-value pair collections | [View Code](24_Collections/b_dictionary) |
 | Queue and Stack | Shows FIFO and LIFO collection implementations | [View Code](24_Collections/c_queue_stack) |
 
