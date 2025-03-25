@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09_ArrayMultiDimensional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb8b65eb9ec47fc0ee1fde22e3db47ce833e4578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fbb0a360b10176785997f0206fc1b0c63e72e85")]
 [assembly: System.Reflection.AssemblyProductAttribute("09_ArrayMultiDimensional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09_ArrayMultiDimensional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

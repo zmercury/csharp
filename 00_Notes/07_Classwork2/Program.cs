@@ -28,10 +28,12 @@ class Program
           found = true;
         }
 
-        if(found) {
+        if(found)
+        {
           Console.WriteLine("Hello , " + usernameInput);
         }
-        else{
+        else
+        {
           Console.WriteLine("Incorrect credentials ");
         }
     }

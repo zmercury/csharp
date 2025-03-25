@@ -106,3 +106,104 @@
 | Program | Program Description | Source Code |
 |:--------|:-------------------|:------------|
 |
+
+## 12. Encapsulation
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Encapsulation | Shows basic data hiding and access control | [View Code](12_Encapsulation/a_encapculation) |
+| Advanced Encapsulation | Demonstrates property-based encapsulation | [View Code](12_Encapsulation/b_encapculation) |
+| Bank Example | Implements encapsulation in a banking system | [View Code](12_Encapsulation/c_bank) |
+
+## 13. Virtual Methods
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Virtual Method | Shows basic method overriding with virtual keyword | [View Code](13_VirtualMethod/a_VirtualMethod) |
+| Advanced Virtual Method | Demonstrates complex virtual method implementations | [View Code](13_VirtualMethod/b_VirtualMethod) |
+
+## 14. Abstraction
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Abstraction | Shows basic abstract class implementation | [View Code](14_Abstraction/a_abstraction) |
+| Advanced Abstraction | Demonstrates abstract methods and properties | [View Code](14_Abstraction/b_abstraction) |
+| Complex Abstraction | Implements multiple levels of abstraction | [View Code](14_Abstraction/c_abstraction) |
+
+## 15. Polymorphism
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Polymorphism | Shows method overriding and runtime polymorphism | [View Code](15_Polymorphism/a_polymorphism) |
+| Advanced Polymorphism | Demonstrates multiple forms of polymorphic behavior | [View Code](15_Polymorphism/b_polymorphism) |
+
+## 16. Interface
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Interface | Shows how to define and implement interfaces | [View Code](16_Interface/a_interface) |
+| Multiple Interfaces | Demonstrates implementing multiple interfaces | [View Code](16_Interface/b_interface) |
+
+## 17. Parameterized Constructor
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Constructor | Shows constructor overloading with parameters | [View Code](17_ParameterizedConstructor/a_constructor) |
+| Advanced Constructor | Demonstrates complex constructor chaining | [View Code](17_ParameterizedConstructor/b_constructor) |
+
+## 18. Delegates
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Delegates | Shows how to declare and use delegates | [View Code](18_Delegates/a_delegates) |
+| Multicast Delegates | Demonstrates handling multiple method references | [View Code](18_Delegates/b_delegates) |
+
+## 19. Lambda Expression
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Lambda | Shows simple lambda expression syntax | [View Code](19_LambdaExpression/a_lambda) |
+| Advanced Lambda | Demonstrates complex lambda operations | [View Code](19_LambdaExpression/b_lambda) |
+
+## 20. Events
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Events | Shows how to declare and handle events | [View Code](20_Events/a_events) |
+| Custom Events | Demonstrates creating custom event handlers | [View Code](20_Events/b_events) |
+
+## 21. String Operations
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| String Basics | Shows basic string manipulation methods | [View Code](21_String/a_string) |
+| String Advanced | Demonstrates complex string operations | [View Code](21_String/b_string) |
+
+## 22. StringBuilder
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic StringBuilder | Shows efficient string manipulation | [View Code](22_StringBuilder/a_stringbuilder) |
+| Advanced StringBuilder | Demonstrates complex string building operations | [View Code](22_StringBuilder/b_stringbuilder) |
+
+## 23. Regular Expressions
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Regex | Shows pattern matching with regular expressions | [View Code](23_Regex/a_regex) |
+| Advanced Regex | Demonstrates complex pattern matching and replacement | [View Code](23_Regex/b_regex) |
+
+## 24. Collections
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| List Collections | Shows usage of List<T> collection | [View Code](24_Collections/a_list) |
+| Dictionary Collections | Demonstrates key-value pair collections | [View Code](24_Collections/b_dictionary) |
+| Queue and Stack | Shows FIFO and LIFO collection implementations | [View Code](24_Collections/c_queue_stack) |
+
+## 25. Generics
+
+| Program | Program Description | Source Code |
+|:--------|:-------------------|:------------|
+| Basic Generics | Shows how to create generic classes and methods | [View Code](25_Generics/a_generics) |
+| Advanced Generics | Demonstrates generic constraints and implementations | [View Code](25_Generics/b_generics) |
