@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\studentdbfirstmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|solutionrelative:studentdbfirstmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\studentdbfirstmodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|solutionrelative:studentdbfirstmodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\studentdbfirstmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|solutionrelative:studentdbfirstmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|d:\\csp\\26_visual_studio\\d_console_ef_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|d:\\csp\\26_visual_studio\\d_console_ef_dbfirst\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0EAFBA9F-AE76-4243-B2A8-6EC39E802973}|d_console_ef_dbfirst.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-03T02:55:32.115Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:52:57.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDBFirstModel.Designer.cs",
+              "DocumentMoniker": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\StudentDBFirstModel.Designer.cs",
+              "RelativeDocumentMoniker": "StudentDBFirstModel.Designer.cs",
+              "ToolTip": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\StudentDBFirstModel.Designer.cs",
+              "RelativeToolTip": "StudentDBFirstModel.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:45:48.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDBFirstModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\StudentDBFirstModel.edmx",
+              "RelativeDocumentMoniker": "StudentDBFirstModel.edmx",
+              "ToolTip": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\StudentDBFirstModel.edmx [Diagram1]",
+              "RelativeToolTip": "StudentDBFirstModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-03T02:33:36.281Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDBFirstModel.edmx.diagram",
+              "DocumentMoniker": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\StudentDBFirstModel.edmx.diagram",
+              "RelativeDocumentMoniker": "StudentDBFirstModel.edmx.diagram",
+              "ToolTip": "D:\\csp\\26_Visual_Studio\\d_console_ef_dbfirst\\StudentDBFirstModel.edmx.diagram",
+              "RelativeToolTip": "StudentDBFirstModel.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-03T02:32:50.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

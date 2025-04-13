@@ -1,15 +1,15 @@
 -- to create a database obkect
-create database db_college;
+create database my_database;
 
 -- create a database table
 use db_college;
 create table tbl_students 
 (
-	roll int primary key identity(1,1),
-	sname varchar(50) not null,
-	saddress varchar(50) not null,
-	sage int not null,
-	sdob date not null
+  roll int primary key identity(1,1),
+  sname varchar(50) not null,
+  saddress varchar(50) not null,
+  sage int not null,
+  sdob date not null
 );
 
 -- to insert data into database table
