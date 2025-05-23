@@ -22,5 +22,12 @@
       {
         Console.WriteLine("Word Day");
       }
+
+
+
+      Console.WriteLine("Enter your name: ");
+      string name = Console.ReadLine();
+
+      Console.WriteLine($"Hello {name}, Today is {today}");
     }
   }
